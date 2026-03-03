@@ -1,5 +1,5 @@
 resources:
-  - openshift-ai-instance
-  - openshift-ai-operator
   - openshift-servicemesh-operator
   - redhat-connectivity-link-operator
+  - openshift-ai-operator
+  - openshift-ai-instance
