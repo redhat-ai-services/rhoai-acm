@@ -1,7 +1,7 @@
 apiVersion: route.openshift.io/v1
 kind: Route
 metadata:
-  name: my-gateway-route
+  name: openshift-ai-inference
   namespace: openshift-ingress
 spec:
   to:
